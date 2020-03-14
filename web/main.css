@@ -1,0 +1,14 @@
+main{
+	column-count: 4;
+	colum-gap:0px;
+}
+img{
+	max-width: 100%;
+	display: block;
+}
+h1{
+	font: Roboto;
+    font-size: 48px;
+    margin: 5%;
+    color: gold;
+}
